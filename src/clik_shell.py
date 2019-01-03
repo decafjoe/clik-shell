@@ -3,7 +3,7 @@
 Clik extension for adding an interactive command shell to an application.
 
 :author: Joe Joyce <joe@decafjoe.com>
-:copyright: Copyright (c) Joe Joyce and contributors, 2017-2018.
+:copyright: Copyright (c) Joe Joyce and contributors, 2017-2019.
 :license: BSD
 """
 from __future__ import print_function
