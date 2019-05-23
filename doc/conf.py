@@ -122,8 +122,8 @@ texinfo_show_urls = 'footnote'
 # =============================================================================
 
 intersphinx_mapping = {
-    'https://docs.python.org/': None,
-    'https://clik.readthedocs.io/en/0.92.3/': None,
+    'https://docs.python.org/3/': None,
+    'https://clik.readthedocs.io/en/0.92.4/': None,
 }
 
 
