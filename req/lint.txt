@@ -8,3 +8,4 @@ flake8-ownership==2.0.0
 flake8-quotes==2.0.1
 flake8-todo==0.7
 pep8-naming==0.8.2
+pydocstyle<4
